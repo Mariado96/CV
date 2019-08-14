@@ -299,7 +299,7 @@
 {
     font-size: 15px;
     margin-top: 20px;
-    color: #777;
+    color: bold;
 }
 
 .reference-box:hover
@@ -313,11 +313,7 @@
     transition: 1s;
 }
 
-.reference-box p:hover
-{
-    color: #fff;
-    
-}
+
 /*-------------------------Contact--------------*/
 
 .contact
